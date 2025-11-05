@@ -2,6 +2,7 @@
 # Ru: Skillbox_JavaScript-модуль-12_встроенные_объекты_и_функции_вариант-1_задание-1
 
 ## En / Ru:
+
 The repository contains folders with two solution variations for the task
 Репозиторий содержит папки с двумя вариантами решения задания
 
