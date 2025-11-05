@@ -1,0 +1,1 @@
+# Skillbox_JavaScript-module-12_embedded_objects_and_functions_variation-1_task-1
